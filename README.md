@@ -59,10 +59,9 @@ python flames_game.py
 
 ---
 
-
 ## 📸 Program Output
 
-![FLAMES Output](Screenshot 2026-07-31 132828.png)
+![Program Output](output.png)
 
 ---
 
