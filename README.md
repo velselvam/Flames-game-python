@@ -75,7 +75,7 @@ python flames_game.py
 | A | Affection |
 | M | Marriage |
 | E | Enemies |
-| S | Sister |
+| S | Siblings |
 
 ---
 
